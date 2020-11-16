@@ -1,0 +1,3 @@
+# petstoreapi
+
+dotnet run :)
